@@ -25,6 +25,17 @@ Task2_RAG_Document_QA/
 
 ## Setup
 ```bash
+# 1. Go to this task folder (from the repository root)
+cd Task2_RAG_Document_QA
+
+# 2. Create a virtual environment
+python -m venv venv
+
+# 3. Activate it
+venv\Scripts\activate          # Windows
+source venv/bin/activate       # Mac/Linux
+
+# 4. Install dependencies
 pip install -r requirements.txt
 ```
 Add your key to a `.env` file (this folder or any parent folder):
@@ -55,7 +66,7 @@ You: Who won the 2011 cricket world cup?
 ```
 _Replace with your real output and add screenshots below._
 
-## Screenshots  📸 Project Output
+## Screenshots 📸 Project Output
 
 ![Project Output](screenshots/output.png)
 

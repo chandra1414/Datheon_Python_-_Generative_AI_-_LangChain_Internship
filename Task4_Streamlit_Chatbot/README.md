@@ -33,6 +33,17 @@ Task4_Streamlit_Chatbot/
 
 ## Setup
 ```bash
+# 1. Go to this task folder (from the repository root)
+cd Task4_Streamlit_Chatbot
+
+# 2. Create a virtual environment
+python -m venv venv
+
+# 3. Activate it
+venv\Scripts\activate          # Windows
+source venv/bin/activate       # Mac/Linux
+
+# 4. Install dependencies
 pip install -r requirements.txt
 ```
 Add your key to a `.env` file (this folder or any parent folder):
@@ -52,9 +63,10 @@ Open http://localhost:8501 in your browser.
 - Scanned PDFs (photos of pages) contain no text, so they cannot be read.
 - On Streamlit Cloud, `chats.json` is shared by all visitors and can reset, so it is best for demos.
 
-## Screenshots
- ![Project Output](screenshots/output.png)
- ![Project Output](screenshots/output2.png)
+## Screenshots 📸 Project Output
+
+![Project Output](screenshots/output.png)
+![Project Output](screenshots/output2.png)
 
 ## Tech stack
 Python 3, Streamlit, LangChain, Google Gemini, PyPDF, python-docx

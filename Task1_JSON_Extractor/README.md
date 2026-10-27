@@ -23,6 +23,17 @@ Task1_JSON_Extractor/
 
 ## Setup
 ```bash
+# 1. Go to this task folder (from the repository root)
+cd Task1_JSON_Extractor
+
+# 2. Create a virtual environment
+python -m venv venv
+
+# 3. Activate it
+venv\Scripts\activate          # Windows
+source venv/bin/activate       # Mac/Linux
+
+# 4. Install dependencies
 pip install -r requirements.txt
 ```
 Create a `.env` file (copy `.env.example`) and add your key from https://aistudio.google.com/apikey:

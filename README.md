@@ -98,7 +98,11 @@ python extractor.py samples/resume.txt --type resume --save
 }
 ```
 
-**Screenshot:** _add terminal screenshot_
+**Screenshot 📸 Project Output
+
+![Project Output](/Task1_JSON_Extractor/screenshots/output1.png)
+![Project Output](/Task1_JSON_Extractor/screenshots/output2.png)
+![Project Output](/Task1_JSON_Extractor/screenshots/output2continue.png)
 
 ---
 
@@ -130,7 +134,9 @@ You: Who won the 2011 cricket world cup?
 🤖 I could not find the answer in the provided documents.
 ```
 
-**Screenshot:** _add terminal screenshot_
+## Screenshots 📸 Project Output
+
+![Project Output](/Task2_RAG_Document_QA/screenshots/output.png)
 
 ---
 
@@ -166,7 +172,13 @@ python agent.py -q "Read project_budget.txt and add 18% GST to the total"
 ```
 Other questions to try: _"What is the current price of Bitcoin in USD? Multiply it by 0.5."_ and _"Read students.csv and find the average maths marks."_
 
-**Screenshot:** _add terminal screenshot_
+## Screenshots 📸 Project Output
+
+![Project Output](/Task3_Multi_Tool_Agent/screenshots/output1.png)
+![Project Output](/Task3_Multi_Tool_Agent/screenshots/output2.png)
+![Project Output](/Task3_Multi_Tool_Agent/screenshots/output3.png)
+![Project Output](/Task3_Multi_Tool_Agent/screenshots/output4.png)
+
 
 ---
 
@@ -191,7 +203,11 @@ Open http://localhost:8501
 
 **Notes:** Scanned PDFs have no text and cannot be read. On Streamlit Cloud, `chats.json` is shared between visitors and may reset, so it is best for demos.
 
-**Screenshots:** _add: welcome screen, streaming chat, PDF Q&A, sidebar with several chats_
+## Screenshots 📸 Project Output
+
+![Project Output](/Task4_Streamlit_Chatbot/screenshots/output.png)
+![Project Output](/Task4_Streamlit_Chatbot/screenshots/output2.png)
+
 
 ---
 
