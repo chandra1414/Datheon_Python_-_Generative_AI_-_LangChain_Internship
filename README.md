@@ -2,9 +2,9 @@
 
 Four hands-on Generative AI projects built during the **Datheon Python + Generative AI & LangChain Internship**, using **Python 3, LangChain, Google Gemini, ChromaDB, Pydantic and Streamlit**.
 
-**Author:** Your Name
-**LinkedIn:** _add your LinkedIn profile link_
-**Live demo (Task 4):** _add your Streamlit link_
+Author: Bhuvana Chandra Eswara Rao Surampudi
+LinkedIn: https://www.linkedin.com/in/bhuvan2004/
+Live demo (Task 4): https://bhuvan-gemini-chatbot.streamlit.app/_
 
 ---
 
