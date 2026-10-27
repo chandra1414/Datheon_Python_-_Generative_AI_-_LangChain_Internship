@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Generated data
+chroma_db/
+chats.json
+uploads/

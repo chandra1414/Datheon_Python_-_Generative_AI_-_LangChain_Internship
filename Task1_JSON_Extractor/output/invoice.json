@@ -1,0 +1,32 @@
+{
+  "invoice_number": "INV/2026/0457",
+  "invoice_date": "2026-10-14",
+  "due_date": "2026-10-29",
+  "vendor_name": "Bluewave Electronics Pvt Ltd",
+  "customer_name": "Mr. Karthik Reddy",
+  "currency": "INR",
+  "items": [
+    {
+      "description": "Wireless Mouse (Logitech)",
+      "quantity": 3.0,
+      "unit_price": 799.0,
+      "amount": 2397.0
+    },
+    {
+      "description": "USB-C Hub 7-in-1",
+      "quantity": 2.0,
+      "unit_price": 1499.0,
+      "amount": 2998.0
+    },
+    {
+      "description": "Laptop Stand (aluminium)",
+      "quantity": 1.0,
+      "unit_price": 1250.0,
+      "amount": 1250.0
+    }
+  ],
+  "subtotal": 6645.0,
+  "discount": 300.0,
+  "tax": 1142.1,
+  "total": 7487.1
+}

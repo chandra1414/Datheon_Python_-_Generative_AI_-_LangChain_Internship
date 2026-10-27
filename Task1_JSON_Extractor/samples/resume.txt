@@ -1,0 +1,18 @@
+RAHUL VERMA
+Hyderabad | rahul.verma92@gmail.com | 9123456780
+
+Passionate Python developer with 2 years of experience in building data tools and chatbots.
+
+EDUCATION
+- M.Sc. Computer Science, Osmania University (2022)
+- B.Sc. Mathematics, Nizam College, 2020
+
+EXPERIENCE
+Python Developer @ TechNova Solutions   |  Aug 2022 - Present
+  * Built REST APIs using FastAPI serving 10k requests/day
+  * Automated monthly reports, saving 20 hours per month
+
+Intern, Datastream Labs  (Jan 2022 to Jul 2022)
+  * Cleaned and analysed customer data with Pandas
+
+SKILLS: Python, FastAPI, SQL, Pandas, Git, Docker, LangChain

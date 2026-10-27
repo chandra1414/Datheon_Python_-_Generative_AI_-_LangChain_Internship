@@ -1,0 +1,9 @@
+Hackathon Project Budget (all amounts in INR)
+
+Venue rental: 45000
+Food and snacks: 28500
+Prizes: 60000
+Marketing: 12750
+Equipment hire: 33800
+
+Note: All amounts above are BEFORE 18% GST.

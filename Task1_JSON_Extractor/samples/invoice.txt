@@ -1,0 +1,24 @@
+TAX INVOICE
+
+Invoice No: INV/2026/0457            Date: 14 Oct 2026
+Payment due within 15 days (by 29-Oct-2026)
+
+Seller: Bluewave Electronics Pvt Ltd, Hyderabad, Telangana
+GSTIN 36ABCDE1234F1Z5
+
+Billed to:
+Mr. Karthik Reddy
+Reddy & Sons Traders, Vijayawada
+
+Sl  Item                         Qty   Rate      Amount
+1   Wireless Mouse (Logitech)     3    799.00    2397.00
+2   USB-C Hub 7-in-1              2    1,499.00  2998.00
+3   Laptop Stand (aluminium)      1    1250.00   1250.00
+
+Total before tax                              6645.00
+Discount (loyalty)                            -  300.00
+GST @ 18%                                     1142.10
+-----------------------------------------------------
+GRAND TOTAL (INR)                             7487.10
+
+Thank you for your business! Bank: HDFC 50200012345678

@@ -1,0 +1,46 @@
+{
+  "full_name": "RAHUL VERMA",
+  "email": "rahul.verma92@gmail.com",
+  "phone": "9123456780",
+  "summary": "Passionate Python developer with 2 years of experience in building data tools and chatbots.",
+  "skills": [
+    "Python",
+    "FastAPI",
+    "SQL",
+    "Pandas",
+    "Git",
+    "Docker",
+    "LangChain"
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. Computer Science",
+      "institution": "Osmania University",
+      "year": "2022"
+    },
+    {
+      "degree": "B.Sc. Mathematics",
+      "institution": "Nizam College",
+      "year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Developer",
+      "company": "TechNova Solutions",
+      "duration": "Aug 2022 - Present",
+      "highlights": [
+        "Built REST APIs using FastAPI serving 10k requests/day",
+        "Automated monthly reports, saving 20 hours per month"
+      ]
+    },
+    {
+      "role": "Intern",
+      "company": "Datastream Labs",
+      "duration": "Jan 2022 to Jul 2022",
+      "highlights": [
+        "Cleaned and analysed customer data with Pandas"
+      ]
+    }
+  ]
+}
